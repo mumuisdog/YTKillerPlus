@@ -2,8 +2,9 @@
 * a whole new YouTube Experience!
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
-* iOS iPadOS 13.0 / iOS iPadOS 16.x ...
-* YouTube v16.46.5 and newer ...
+* iOS iPadOS 13.0 / iOS iPadOS 18.x ...
+* YouTube v18.x to 19.20.2 is for iOS 14 ...
+* YouTube v19.21x and newer is for iOS 15.x and above...
 
 
 ## Depiction Page
@@ -17,8 +18,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_19.01.1_YTKillerPlus_2.3.5.ipa) | com.google.ios.youtube | 19.01.1 | 2.3.5 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.01.1_YTKillerPlus_2.3.5_TrollStore.ipa) | com.google.ios.youtube | 19.01.1| 2.3.5 | IPA |
+        | [YouTube](https://ikghd.site/ipa/YouTube_19.30.2_YTKillerPlus_3.2.1.ipa) | com.google.ios.youtube | 19.30.2 | 3.2.1 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.30.2_YTKillerPlus_3.2.1_TrollStore.tipa) | com.google.ios.youtube | 19.30.2| 3.2.1 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -34,7 +35,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YTKillerPlus v19.01.1](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YTKillerPlus v19.30.2](https://tinyurl.com/vsa93hyh) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -44,9 +45,9 @@
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
-### TrollStore iPA Only
+### TrollStore tipa
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://ikghd.site/ipa/YouTube_19.01.1_YTKillerPlus_2.3.5_TrollStore.ipa) and install it via TrollStore:
+* copy this link [here](https://ikghd.site/ipa/YouTube_19.30.2_YTKillerPlus_3.2.1_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
 
 
 ### Telegram channel
@@ -56,3 +57,8 @@
 ## Localization..
 * YTKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
+
+### Donation
+* donation always appreciated to keep the project on go!
+* [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
+* [Buy me a coffe](https://www.buymeacoffee.com/ikghd)

@@ -9,6 +9,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "启用下载功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "在视频上添加下载按钮";
+"glob_overlay_button" = "播放器内显示的按钮";
 
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "预设下载画质";
@@ -25,6 +26,50 @@
 "SUBSCRIPTIONS" = "订阅内容";
 "LIBRARY" = "媒体库";
 "YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "播放界面按钮";
+"overlay_player" = "播放器";
+"speed_index" = "播放速度";
+"pip_player" = "画中画";
+"short_player" = "短视频播放器";
+
+"yt_video_quality_wifi" = "WiFi网络播放画质";
+"yt_video_quality_celluar" = "蜂窝网络播放画质";
+"auto" = "自动";
+"highest_quality" = "最好画质";
+"yt_speed_playback" = "默认播放速度";
+"normal" = "正常";
+"default" = "默认";
+
+"image" = "图片";
+"information" = "信息";
+"copy_title" = "复制标题";
+"copy_describtion" = "复制描述";
+"copied" = "已复制";
+
+"save_pfP" = "保存个人资料图片";
+"copy_ptext" = "复制帖子文本";
+"save_img" = "保存图片";
+"copy_comment" = "复制评论";
+"pip_mode" = "画中画";
+"pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
+
+"short_fullscreen" = "短视频全屏";
+"short_auto_skip" = "短视频自动跳过";
+"USE_PREM_LOGO" = "启用 Premium Logo";
+"cast_confirm" = "投送确认";
+"video_available" = "视频可用";
+"videos_available" = "视频可用";
+"audio_available" = "音频可用";
+"audios_available" = "音频可用";
+"short_available" = "短视频可用";
+"shorts_available" = "短视频可用";
+
+"cancel_downloading" = "取消下载..？";
+"action_undone" = "此操作无法撤消！";
+"retry" = "重试";
+"retry_disc" = "请尝试重新登录";
 
 /* general section */
 "VIDEO_PLAYER" = "视频播放器选项";
@@ -155,8 +200,9 @@
 "STICKY_NAV_BAR" = "隐藏导航栏下方的类别";
 "SHOW_YTKPLUS_ICON" = "显示YTKillerPlus按钮";
 "HIDE_ITEMS_NAV_BAR" = "隐藏导航栏项目";
+"SHOW_YTKPlus_Icon" = "显示YTKPlus图标";
 "HIDE_YT_LOGO" = "隐藏YouTube Logo";
-"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮";
+"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮🔕";
 "HIDE_ACCOUNT" = "隐藏账号按钮";
 "HIDE_SEARCH" = "隐藏搜索按钮";
 "HIDE_CAST_BUTTON" = "隐藏投射按钮";
@@ -290,3 +336,4 @@
 
 
 /* other stuff */
+
