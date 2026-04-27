@@ -156,19 +156,19 @@
 "HIDE_COMMUNITY_TEXT_INFO" = "隱藏頂部的社群文字。";
 
 /* overlay options section */
-"OVERLAY_SECTION" = "覆蓋層";
-"SHOW_STATUS_BAR_IN_OVERLAY" = "在控制層顯示狀態列";
+"OVERLAY_SECTION" = "播放介面";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "在播放介面顯示狀態列";
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機型或 iPad 樣式。";
-"DISABLE_DOUBLE_TAP" = "停用快進/快退兩下";
-"DISABLE_CONTINUE_WATCHING" = "停用「確認繼續觀看」";
+"DISABLE_DOUBLE_TAP" = "停用點兩下快進/快退";
+"DISABLE_CONTINUE_WATCHING" = "停用「繼續觀看」";
 "DISABLE_CONTINUE_WATCHING_INFO" = "觀看長影片時不再跳出詢問提示。";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏快速操作";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸熱度波形";
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸上的重播次數熱度圖。";
 "SWIPE_TO_HIDE_PANEL" = "滑動隱藏面板";
-"SWIPE_TO_HIDE_PANEL_INFO" = "在全螢幕面板上從左向右滑動即可隱藏。";
+"SWIPE_TO_HIDE_PANEL_INFO" = "在全螢幕面板上，從左向右滑動即可隱藏。";
 "DISABLE_PINCH_TO_ZOOM" = "停用兩指縮放全螢幕";
-"MEDIA_CONTROLLER" = "覆蓋層控制器";
+"MEDIA_CONTROLLER" = "播放控制器";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "恆顯播放/暫停按鈕";
 "SHOW_MEDIA_CONTROLLER" = "恆顯所有控制按鈕";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏控制層深色背景";
